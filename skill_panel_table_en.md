@@ -1,6 +1,6 @@
 # Unlimited Saga - Complete Skill Panel Index Table
 
-Base addresses: `1085336A` / `1085336C` / `1085336E` (party's shared end-of-scenario panel candidates). Write the hex value from the table below in the format `0000XXXX` into one of these addresses.
+Base addresses: `871D96` (party's shared end-of-scenario panel candidates). Write the hex value from the table below in the format `XXXX` into this address.
 
 Verified against 4 known Action Replay codes (00D6, 00B3, 00FE, 012B) — all match. Source: manually mapped by testing every value in-game via PCSX2 memory editor.
 
